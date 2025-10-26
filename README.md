@@ -26,6 +26,12 @@ A **Python web scraper** built with **Requests** and **BeautifulSoup** that down
 
 ---
 
+## 💻 Credits
+
+- This project uses data from **[Papacambridge](https://pastpapers.papacambridge.com)**, which provides past O-Level, AS-Level and A-Level papers for educational purposes.
+
+---
+
 ## ⚡ How to Use
 
 1. Clone the repository:
